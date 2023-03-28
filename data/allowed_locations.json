@@ -1,6 +1,5 @@
 {
     "allowed_locations": [
-        //"westeurope",
         "eastus",
         "eastus2"
     ]
